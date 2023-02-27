@@ -1,8 +1,7 @@
 # Teradata Date Functions
 
-|     |     |     |
+| Function | Description | Example |
 | --- | --- | --- |
-| Function | Description |     |
 | [td\_day\_of\_week](https://dbmstutorials.com/teradata/teradata-calendar-functions.html#td_day_of_week) | Returns week day in number ranging from 1-7 for the specified date | ```SELECT TD_DAY_OF_WEEK(CURRENT_DATE);``` |
 | [td\_day\_of\_month](https://dbmstutorials.com/teradata/teradata-calendar-functions.html#td_day_of_month) | Returns Day of the Month for the specified date | ```SELECT TD_DAY_OF_MONTH(CURRENT_DATE);``` |
 | [td\_day\_of\_year](https://dbmstutorials.com/teradata/teradata-calendar-functions.html#td_day_of_year) | Returns Day of the year for the specified date | ```SELECT TD_DAY_OF_YEAR(CURRENT_DATE);``` |
