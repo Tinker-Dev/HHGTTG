@@ -2,7 +2,7 @@
 
 ***
 
-Important Notion: [The Uncertainty Principle](https://en.wikipedia.org/wiki/Uncertainty_principle) states the more you put presure on your developer the dirtier the code gets.
+Important Notion: [The Uncertainty Principle](https://en.wikipedia.org/wiki/Uncertainty_principle) states the more you put presure on your developer the dirtier the code gets. ;-)
 
 ***
 
