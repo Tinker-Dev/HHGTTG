@@ -1,4 +1,4 @@
-# Welcome to the HHGTTG wiki!
+# Welcome to the TinkerDev's version of the HHGTTG
 
 ***
 
