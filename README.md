@@ -1,8 +1,6 @@
-Welcome to the HHGTTG wiki!
+# Welcome to the HHGTTG wiki!
 
 ***
-
-## Python
 
 ## Teradata
 - [Teradata Date Functions](teradata_date_functions.md)
